@@ -1,4 +1,4 @@
-# Dotdigital for Magento Inventory Management
+# Dotdigital for Inventory Management (Magento Open Source and Adobe Commerce)
 
 ## Requirements
 - This module requires the Dotdigitalgroup_Email module v4.16.0+
