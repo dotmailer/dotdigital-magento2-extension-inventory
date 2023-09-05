@@ -9,8 +9,12 @@
 
 ## Changelog
 
-**1.0.0**
+### 1.0.1
 
-**What’s new**
+##### Improvements
+- We've updated the module's dependencies. The module now requires PHP 7.4+ and Magento 2.3.7+.
 
+### 1.0.0
+
+##### What's new
 - Our first release adds support for Magento Multi Source Inventory in a separate module.
