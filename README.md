@@ -1,4 +1,4 @@
-# Dotdigital for Magento Inventory Management
+# Dotdigital for Inventory Management (Magento Open Source and Adobe Commerce)
 
 ## Requirements
 - This module requires the Dotdigitalgroup_Email module v4.16.0+
@@ -9,8 +9,12 @@
 
 ## Changelog
 
-**1.0.0**
+### 1.1.0
 
-**What’s new**
+##### What's new
+- We've updated the module's dependencies. The module now requires PHP 7.4+ and Magento 2.3.7+.
 
+### 1.0.0
+
+##### What's new
 - Our first release adds support for Magento Multi Source Inventory in a separate module.
