@@ -9,9 +9,9 @@
 
 ## Changelog
 
-### 1.0.1
+### 1.1.0
 
-##### Improvements
+##### What's new
 - We've updated the module's dependencies. The module now requires PHP 7.4+ and Magento 2.3.7+.
 
 ### 1.0.0

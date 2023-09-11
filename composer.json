@@ -2,7 +2,7 @@
     "name": "dotdigital/dotdigital-magento2-extension-inventory",
     "description": "Dotdigital for Magento Inventory Management",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "type": "magento2-module",
     "repositories": [
         {
