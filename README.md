@@ -7,6 +7,19 @@
 ## Activation
 - This module is included in our core extension. Please refer to [these instructions](https://github.com/dotmailer/dotmailer-magento2-extension#installation) to install via the Magento Marketplace.
 
+## How to remove the module if required
+Merchants using our `dotdigital/dotdigital-magento2-os-package` metapackage, who are not using Magento Multi Source Inventory, can remove this module as follows:
+1. Disable the module:
+```
+bin/magento module:disable Dotdigitalgroup_Inventory
+```
+2. Add a replace in composer.json to physically remove the package files:
+```
+"replace": {
+    "dotdigital/dotdigital-magento2-extension-inventory": "*"
+},
+```
+
 ## Changelog
 
 ### 1.1.0
